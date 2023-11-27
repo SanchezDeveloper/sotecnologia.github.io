@@ -2,6 +2,8 @@
 
 Bem-vindo à landing page da S.O. Tecnologia e Segurança Eletrônica, especializada em soluções de segurança eletrônica. Esta página foi desenvolvida usando HTML, CSS e JavaScript para capturar novos cliente fornecendo informações relevantes sobre os serviços que oferecemos e como podemos ajudar a proteger seus espaços.
 
+##gh-pages: https://sanchezdeveloper.github.io/sotecnologia.github.io/
+
 ## Conteúdo
 
 1. **Sobre a Empresa**
